@@ -1,4 +1,4 @@
-# SmackChat (smackchat)
+# SmackChat (Quasar/VueJS)
 
 A Quasar Framework app
 
