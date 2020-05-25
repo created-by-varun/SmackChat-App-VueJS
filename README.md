@@ -1,6 +1,7 @@
 # SmackChat (Quasar/VueJS)
 
-A Quasar Framework app
+A chat application made with Quasar Framework using VueJS and VueX  
+**Hosted Live at: https://smackchat.netlify.app/**  
 
 ## Install the dependencies
 ```bash
