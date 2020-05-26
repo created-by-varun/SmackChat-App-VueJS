@@ -15,7 +15,7 @@
   			:key="key"
   		  :text="[message.text]"
   		  :sent="message.from == 'me' ? true : false"
-  		  :bg-color="message.from == 'me' ? 'white' : 'red-3'"
+  		  :bg-color="message.from == 'me' ? 'white' : 'info'"
   		/>
   	</div>
   	<q-footer elevated>

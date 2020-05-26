@@ -6,7 +6,7 @@
         dense
         class="text-grey"
         active-color="primary"
-        indicator-color="primary"
+        indicator-color="secondary"
         align="justify"
         narrow-indicator
       >

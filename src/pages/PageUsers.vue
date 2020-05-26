@@ -10,7 +10,7 @@
   	  	clickable
   	  	v-ripple>
   	    <q-item-section avatar>
-  	      <q-avatar color="primary" text-color="white">
+  	      <q-avatar color="secondary" text-color="white">
   	        {{ user.name.charAt(0) }}
   	      </q-avatar>
   	    </q-item-section>
