@@ -1,6 +1,6 @@
 # SmackChat (Quasar/VueJS)
 
-A chat application made with Quasar Framework using VueJS and VueX  
+A chat application made with Quasar Framework using VueJS, VueX and Firebase Real Time Database  
 **Hosted Live at: https://smackchat.netlify.app/**  
 
 Quasar (pronounced /ˈkweɪ.zɑɹ/) is an MIT licensed open-source Vue.js based framework, which allows you as a web developer to quickly create responsive++ websites/apps in many flavours:
